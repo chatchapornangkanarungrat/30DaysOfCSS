@@ -9,10 +9,10 @@ body {
 h1 {
 	font-size: 150px;
 	text-align: center;
-	background: url(image.jpg);
+	background: url(cat.jpeg);
 	-webkit-background-clip: text;
 	color: transparent;
-	animation: text-background 20s linear infinite;
+	animation: text-background 0.1s linear infinite;
 }
 
 @keyframes text-background {
